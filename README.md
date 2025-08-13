@@ -15,7 +15,8 @@ This project dashboard is built to show my Excel Skills such as:
 
 ## Power Query to clean and optimize data
 
-### These are the queries used: ![power_query_image](<img width="272" height="628" alt="Screenshot 2025-08-13 at 08 56 07" src="https://github.com/user-attachments/assets/8496510c-0477-4bd1-a69a-59fa21c5616b" />
+### These are the queries used:  
+![power_query_image](<img width="272" height="628" alt="Screenshot 2025-08-13 at 08 56 07" src="https://github.com/user-attachments/assets/8496510c-0477-4bd1-a69a-59fa21c5616b" />
 )
 
 
