@@ -1,5 +1,10 @@
 # Clothes_shop_sales_dashboard
-## Sales dashboard of a Local Clothes Shop in India.   
+## Sales dashboard of a Local Clothes Shop in India.  
+![there should be the gif of the whole dashboard](
+
+https://github.com/user-attachments/assets/e9dc8b3f-44bc-4de8-9430-e2e9488adb18
+
+)
 This Beginner level dashboard showcases the trends, gender ratios and geograpical and category based distributions of the local Indian clothes shop.
 This project dashboard is built to show my Excel Skills such as:  
 1. Power Query for Data Cleaning
