@@ -13,6 +13,12 @@ This project dashboard is built to show my Excel Skills such as:
 4. Slicers
 5. Data Validation tools
 
+## Power Query to clean and optimize data
+
+### These are the queries used: ![power_query_image](<img width="272" height="628" alt="Screenshot 2025-08-13 at 08 56 07" src="https://github.com/user-attachments/assets/8496510c-0477-4bd1-a69a-59fa21c5616b" />
+)
+
+
 The dashboard gives a sales manager an overall look on the the last sales over the years. They can easliy track where the shop's future sales are going to be in the near future. The graphs provide information about the bestseller products, and geographical locations where do the most sales are going. So they can get these insights out of the data:
 
 1. What producst are the most sold ones over the last year, so what product do they need to focus and get more for this year.
