@@ -16,9 +16,9 @@ This project dashboard is built to show my Excel Skills such as:
 ## Power Query to clean and optimize data
 
 ### These are the queries used:  
-!(<img width="272" height="628" alt="Screenshot 2025-08-13 at 08 56 07" src="https://github.com/user-attachments/assets/46e3246b-06bc-41e9-8767-93d55db3c4e0" />
+<img width="272" height="628" alt="Screenshot 2025-08-13 at 08 56 07" src="https://github.com/user-attachments/assets/46e3246b-06bc-41e9-8767-93d55db3c4e0" />
 
-)
+
 
 
 The dashboard gives a sales manager an overall look on the the last sales over the years. They can easliy track where the shop's future sales are going to be in the near future. The graphs provide information about the bestseller products, and geographical locations where do the most sales are going. So they can get these insights out of the data:
