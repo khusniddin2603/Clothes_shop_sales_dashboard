@@ -21,6 +21,7 @@ This project dashboard is built to show my Excel Skills such as:
 ## Visual Grpahs  
 ### Trend Over the months of the last year:  
 <img width="858" height="491" alt="Screenshot 2025-08-13 at 09 01 10" src="https://github.com/user-attachments/assets/5f8b533c-1654-4b61-985d-ffc43fc501ba" />    
+
 * This graph helps managers to track what is the sales over the last year and they can decide depending on the values of the months. e.g They can provide more products on the months such as January, Februrary and March because these months were the most sales active months.
 * Values were optimized in a such a format to make it easier to read.
 
